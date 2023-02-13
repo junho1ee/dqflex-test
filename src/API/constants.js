@@ -1,1 +1,1 @@
-export const baseUrl = "camelliadesigns.link:8080";
+export const baseUrl = "www.camelliadesigns.link";
